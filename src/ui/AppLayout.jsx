@@ -15,7 +15,7 @@ const Styled_Main = styled.main`
 
 const Styled_Container = styled.div`
   max-width: 120rem;
-  margin: 0 auto;
+  margin: 20px auto 0;
   display: flex;
   flex-direction: row;
   gap: 3.2 rem;
