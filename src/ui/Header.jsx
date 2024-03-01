@@ -100,9 +100,8 @@ function Header() {
       </Styled_Container>
       <Styled_Nav>
         <Styled_NavLink>Home</Styled_NavLink>
-        <Styled_NavLink>Home</Styled_NavLink>
-        <Styled_NavLink>Home</Styled_NavLink>
-        <Styled_NavLink>Home</Styled_NavLink>
+        <Styled_NavLink>For You</Styled_NavLink>
+        <Styled_NavLink>Following</Styled_NavLink>
       </Styled_Nav>
     </Styled_Header>
   );
